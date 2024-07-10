@@ -1,0 +1,20 @@
+{
+  "name": "cucumber-vscode-support",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "tsc && cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Example repository for Visual Studio Code setting tu support Cucumber feature files",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.16.0"
+  }
+}

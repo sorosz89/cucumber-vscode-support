@@ -1,0 +1,10 @@
+{
+  "default": {
+    "require": [
+      "./dist/step_definitions/"
+    ],
+    "format": [
+      "progress-bar"
+    ]
+  }
+}
